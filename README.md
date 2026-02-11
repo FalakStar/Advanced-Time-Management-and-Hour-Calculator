@@ -98,7 +98,7 @@ Through this project, you will understand:
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]**  
+Developed by **[FalakStar]**  
 Advanced Time Management Project  
 
 ---
