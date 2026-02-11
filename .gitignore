@@ -1,0 +1,57 @@
+# ==========================
+# C++ Files & Binaries
+# ==========================
+*.exe
+*.out
+*.o
+*.obj
+*.gch
+*.pch
+*.dll
+*.so
+*.a
+*.lib
+
+# ==========================
+# Java Files & Binaries
+# ==========================
+*.class
+*.jar
+*.war
+*.ear
+
+# ==========================
+# IDE & Editor Files
+# ==========================
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA
+*.iml
+.idea/
+out/
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# ==========================
+# System Files
+# ==========================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+
+# ==========================
+# Build & Dependency Files
+# ==========================
+build/
+bin/
+dist/
+target/
